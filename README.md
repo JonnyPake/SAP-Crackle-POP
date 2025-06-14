@@ -1,6 +1,8 @@
 # SAP, Crackle and POP!
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonnyPake/SAP-Crackle-POP/refs/heads/main/files/sapcracklepop.png" alt="lurekit" width="576" height="384"/>
+</p>
 
 >[!warning]
 >Currently under development, will be published later this year!
